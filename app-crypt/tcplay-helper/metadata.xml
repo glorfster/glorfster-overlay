@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer>
+		<email>glorfster@gmail.com</email>
+		<name>Peter</name>
+	</maintainer>
+	<longdescription>Helper for using tcplay with pam_mount</longdescription>
+</pkgmetadata>
